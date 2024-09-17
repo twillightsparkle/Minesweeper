@@ -1,0 +1,12 @@
+2024-05-21 23:41:40    You lost with 99/99 mines left | played for 00:02 minutes with 2 turns
+2024-05-21 23:41:48    You lost with 99/99 mines left | played for 00:04 minutes with 2 turns
+2024-05-21 23:41:57    You lost with 99/99 mines left | played for 00:03 minutes with 4 turns
+2024-05-21 23:42:03    You lost with 99/99 mines left | played for 00:05 minutes with 5 turns
+2024-05-21 23:42:13    You lost with 99/99 mines left | played for 00:01 minutes with 2 turns
+2024-05-21 23:42:18    You lost with 99/99 mines left | played for 00:13 minutes with 3 turns
+2024-05-21 23:42:36    You lost with 99/99 mines left | played for 00:07 minutes with 6 turns
+2024-05-21 23:42:49    You lost with 99/99 mines left | played for 00:01 minutes with 2 turns
+2024-05-21 23:42:56    You lost with 99/99 mines left | played for 00:03 minutes with 3 turns
+2024-05-21 23:43:05    You lost with 99/99 mines left | played for 00:02 minutes with 2 turns
+2024-05-21 23:43:29    You lost with 20/20 mines left | played for 00:06 minutes with 4 turns
+2024-05-21 23:43:44    You lost with 20/20 mines left | played for 00:06 minutes with 2 turns
